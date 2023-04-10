@@ -1,1 +1,1 @@
-# Blog for technical issue
+# Blog for technical issues
