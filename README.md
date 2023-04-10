@@ -1,1 +1,2 @@
-# Blog for technical issues
+# Tech Blog
+Personal tech blog
