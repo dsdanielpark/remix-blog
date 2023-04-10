@@ -1,2 +1,1 @@
-# swtechblog.com
-Technical Blog for reserching
+# Tech blog
