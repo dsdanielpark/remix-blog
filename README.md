@@ -1,5 +1,5 @@
 # Tech Blog
-[remix](https://remix.run/)
+[Remix](https://remix.run/) - Using [speed metal stack](https://github.com/Girish21/speed-metal-stack) template.
 
 # References
 [1] https://github.com/Girish21/speed-metal-stack <br>
